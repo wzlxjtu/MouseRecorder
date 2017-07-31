@@ -1,0 +1,4 @@
+This is a computer mouse recorder software written in Python.
+Required packages:
+# Pyhook
+# wxPython
